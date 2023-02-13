@@ -1,2 +1,0 @@
-#!/bin/bash
-echo "hello_wolrd" cat -e hello, world
